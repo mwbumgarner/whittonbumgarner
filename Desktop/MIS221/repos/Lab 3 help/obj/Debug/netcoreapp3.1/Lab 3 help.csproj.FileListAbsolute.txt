@@ -1,0 +1,12 @@
+/Users/whittonbumgarner/Desktop/MIS221/repos/Lab 3 help/obj/Debug/netcoreapp3.1/Lab 3 help.csprojAssemblyReference.cache
+/Users/whittonbumgarner/Desktop/MIS221/repos/Lab 3 help/obj/Debug/netcoreapp3.1/Lab 3 help.AssemblyInfoInputs.cache
+/Users/whittonbumgarner/Desktop/MIS221/repos/Lab 3 help/obj/Debug/netcoreapp3.1/Lab 3 help.AssemblyInfo.cs
+/Users/whittonbumgarner/Desktop/MIS221/repos/Lab 3 help/obj/Debug/netcoreapp3.1/Lab 3 help.csproj.CoreCompileInputs.cache
+/Users/whittonbumgarner/Desktop/MIS221/repos/Lab 3 help/bin/Debug/netcoreapp3.1/Lab 3 help.deps.json
+/Users/whittonbumgarner/Desktop/MIS221/repos/Lab 3 help/bin/Debug/netcoreapp3.1/Lab 3 help.runtimeconfig.json
+/Users/whittonbumgarner/Desktop/MIS221/repos/Lab 3 help/bin/Debug/netcoreapp3.1/Lab 3 help.runtimeconfig.dev.json
+/Users/whittonbumgarner/Desktop/MIS221/repos/Lab 3 help/bin/Debug/netcoreapp3.1/Lab 3 help.dll
+/Users/whittonbumgarner/Desktop/MIS221/repos/Lab 3 help/bin/Debug/netcoreapp3.1/Lab 3 help.pdb
+/Users/whittonbumgarner/Desktop/MIS221/repos/Lab 3 help/obj/Debug/netcoreapp3.1/Lab 3 help.dll
+/Users/whittonbumgarner/Desktop/MIS221/repos/Lab 3 help/obj/Debug/netcoreapp3.1/Lab 3 help.pdb
+/Users/whittonbumgarner/Desktop/MIS221/repos/Lab 3 help/obj/Debug/netcoreapp3.1/Lab 3 help.genruntimeconfig.cache
