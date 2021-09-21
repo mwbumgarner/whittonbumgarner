@@ -1,0 +1,15 @@
+/Users/whittonbumgarner/Desktop/MIS 321 /PAwhitton2/obj/Debug/net5.0/PAwhitton2.csproj.AssemblyReference.cache
+/Users/whittonbumgarner/Desktop/MIS 321 /PAwhitton2/obj/Debug/net5.0/PAwhitton2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/whittonbumgarner/Desktop/MIS 321 /PAwhitton2/obj/Debug/net5.0/PAwhitton2.AssemblyInfoInputs.cache
+/Users/whittonbumgarner/Desktop/MIS 321 /PAwhitton2/obj/Debug/net5.0/PAwhitton2.AssemblyInfo.cs
+/Users/whittonbumgarner/Desktop/MIS 321 /PAwhitton2/obj/Debug/net5.0/PAwhitton2.csproj.CoreCompileInputs.cache
+/Users/whittonbumgarner/Desktop/MIS 321 /PAwhitton2/bin/Debug/net5.0/PAwhitton2.deps.json
+/Users/whittonbumgarner/Desktop/MIS 321 /PAwhitton2/bin/Debug/net5.0/PAwhitton2.runtimeconfig.json
+/Users/whittonbumgarner/Desktop/MIS 321 /PAwhitton2/bin/Debug/net5.0/PAwhitton2.runtimeconfig.dev.json
+/Users/whittonbumgarner/Desktop/MIS 321 /PAwhitton2/bin/Debug/net5.0/PAwhitton2.dll
+/Users/whittonbumgarner/Desktop/MIS 321 /PAwhitton2/bin/Debug/net5.0/ref/PAwhitton2.dll
+/Users/whittonbumgarner/Desktop/MIS 321 /PAwhitton2/bin/Debug/net5.0/PAwhitton2.pdb
+/Users/whittonbumgarner/Desktop/MIS 321 /PAwhitton2/obj/Debug/net5.0/PAwhitton2.dll
+/Users/whittonbumgarner/Desktop/MIS 321 /PAwhitton2/obj/Debug/net5.0/ref/PAwhitton2.dll
+/Users/whittonbumgarner/Desktop/MIS 321 /PAwhitton2/obj/Debug/net5.0/PAwhitton2.pdb
+/Users/whittonbumgarner/Desktop/MIS 321 /PAwhitton2/obj/Debug/net5.0/PAwhitton2.genruntimeconfig.cache
